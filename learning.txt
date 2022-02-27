@@ -2,3 +2,4 @@ Resolosi
 - Konsisten belajar Laravel
 - Belajar backend
 - Menjadi Development Profesional
+- Menjadi Progaming
