@@ -4,3 +4,4 @@ Belajar 4 jam sehari
 Interview
 Laravel
 SQL
+Javascript
