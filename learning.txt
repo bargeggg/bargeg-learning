@@ -1,0 +1,3 @@
+Resolosi
+- Konsisten belajar Laravel
+- Belajar backend
